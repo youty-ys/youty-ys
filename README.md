@@ -1,9 +1,14 @@
 ### Hi there 👋
+
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youty-ys)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youty-ys)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**alchemyyouty/alchemyyouty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**youty-ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
